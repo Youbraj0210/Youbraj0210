@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youbraj0210&label=Profile%20views&color=0e75b6&style=flat" alt="youbraj0210" /> </p>
 
-- 🌱 I’m currently learning **Reactjs,MongoDB,Nodejs**
+- 🌱 I’m currently learning **Reactjs**
 
 - 👯 I’m looking to collaborate on **on many open source projects related to web development**
 
